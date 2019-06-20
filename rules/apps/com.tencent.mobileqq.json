@@ -85,5 +85,14 @@
       "zh": "修復無法從 <b>QQ 拼音輸入法</b> 發送表情",
       "en": "Fix can't send images from <b>QQ Pinyin IME</b>"
     }
-  }
+  },
+  "mount_dirs": [
+    "DCIM",
+    "Pictures",
+    "MIUI/Gallery/cloud/owner",
+    "tencent/QQfile_recv",
+    "tencent/micromsg/WeiXin",
+    "QQ_Images",
+    "Android/data/tv.danmaku.bili"
+  ]
 }
