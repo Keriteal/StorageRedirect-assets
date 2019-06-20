@@ -3,7 +3,22 @@
   "recommended": true,
   "verified": false,
   "authors": [
-    "wyy8087"
+    "wyy8087",
+    "Keriteal"
   ],
-  "observers": []
+  "observers": [
+    {
+      "description": "saved_videos",
+      "source": "tencent/shouyoubao/ScreenRecord/com.tencent.tmgp.sgame",
+      "target": "Movies/Sgame",
+      "call_media_scan": true
+    },
+    {
+      "description": "saved_videos",
+      "source": "tencent/shouyoubao/ManualScreenRecord",
+      "target": "Movies/Sgame",
+      "call_media_scan": true
+    }
+  ],
+  "mount_dirs": []
 }
