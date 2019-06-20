@@ -1,0 +1,25 @@
+{
+  "package": "com.edlplan.beatmapservice",
+  "recommended": true,
+  "verified": false,
+  "authors": [
+    "Keriteal"
+  ],
+  "simple_mounts": [
+    {
+      "source_package": "com.edlplan.beatmapservice",
+      "target_package": "ru.nsu.ccfit.zuev.osuplus",
+      "paths": [
+        "osu!droid"
+      ]
+    },
+    {
+      "source_package": "com.edlplan.beatmapservice",
+      "target_package": "me.mugzone.malody",
+      "paths": [
+        "data"
+      ]
+    }
+  ],
+  "mount_dirs": []
+}

@@ -18,7 +18,7 @@
     {
       "call_media_scan": true,
       "add_to_downloads": true,
-      "source": "tencent/QQfile_recv",
+      "source": "Tencent/QQfile_recv",
       "target": "Download/QQ",
       "description": "saved_files",
       "allow_child": false,
@@ -27,7 +27,7 @@
     {
       "call_media_scan": true,
       "add_to_downloads": false,
-      "source": "tencent/QQ_Images",
+      "source": "Tencent/QQ_Images",
       "target": "Pictures/QQ",
       "description": "saved_pictures",
       "allow_child": false,
@@ -90,8 +90,8 @@
     "DCIM",
     "Pictures",
     "MIUI/Gallery/cloud/owner",
-    "tencent/QQfile_recv",
-    "tencent/micromsg/WeiXin",
+    "Tencent/QQfile_recv",
+    "Tencent/micromsg/WeiXin",
     "QQ_Images",
     "Android/data/tv.danmaku.bili"
   ]
